@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "name": "Basic Calculator",
+            "description": "I used Python to write the code for this basic calculator. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.",
+            "link": "https://github.com/Fxroyalempres/basic-calculator.git"
+        },
+        {
+            "name": "Database Creation and Deletion",
+            "description": "I did select data from a database, using MySQL knowledge and its commands.",
+            "link": "https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git"
+        },
+        {
+            "name": "Data Selection",
+            "description": "A weather dashboard with API integration, styled with Tailwind CSS.",
+            "link": "https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git"
+        },
+        {
+            "name": "Data Manipulation and Access Granting",
+            "description": "I used MySQL to create a database and grant access to it. I also manipulated data in the database.",
+            "link": ""
+        }
+    ]
+}
