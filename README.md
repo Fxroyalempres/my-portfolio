@@ -54,7 +54,6 @@ My journey began when I wanted to:
 *"Every expert was once a beginner. This is my beginning."* ✨
 
 
-## Contact
 ## 📫 Let's Talk Trading Tech!
 📧 **Email:** [your@email.com] *(Fastest reply)*  
 🐦 **Twitter:** [@webweaveress] *(Trading memes + code snippets)*  
