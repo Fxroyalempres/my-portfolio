@@ -16,21 +16,24 @@ My journey began when I wanted to:
 
 *"I discovered that coding is like hold trading - patience and precision create the best results."*
 
-## 🛠️ PLP Projects
-### 1. Hold Position Calculator  
-🔹 **Tech Stack:** Python (Pandas, Matplotlib)  
-🔹 **Why?** Born from my need to automate profit/loss calculations  
-🔹 **Link:** [GitHub Repo Link]  
 
-### 2. Trading Journal Database  
+## 🛠️ My Projects
+### 1. Basic Python Calculator
+🔹 **Tech Stack:** Python  
+🔹 **Description:** A simple calculator handling core arithmetic operations  
+🔹 **Link:** [GitHub Repo Link]
+
+### 2. MySQL Database Manager 
 🔹 **Tech Stack:** MySQL, Python  
-🔹 **Why?** To systemize my trading insights for better decisions  
-🔹 **Link:** [GitHub Repo Link]  
+🔹 **Description:** Create, delete, and query databases with clean SQL commands  
+🔹 **Link:** [GitHub Repo Link]
 
-### 3. SEO Content Generator  
-🔹 **Tech Stack:** JavaScript, OpenAI API  
-🔹 **Why?** Turns my trading notes into blog drafts automatically  
-🔹 **Link:** [GitHub Repo Link]  
+### 3. Data Retrieval System
+🔹 **Tech Stack:** MySQL, Python  
+🔹 **Description:** Select and display specific data from custom databases  
+🔹 **Link:** [GitHub Repo Link]
+
+
 
 ## 📚 Currently Mastering at PLP
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">  
@@ -66,21 +69,6 @@ Let’s build the web together!
 - Passionate about **building trading automation tools and SEO-optimized solutions**
 - Particularly interested in **FinTech applications and blockchain technology**
 
-## 🛠️ PLP Projects
-### 1. Basic Python Calculator
-🔹 **Tech Stack:** Python  
-🔹 **Description:** A simple calculator handling core arithmetic operations  
-🔹 **Link:** [GitHub Repo Link]
-
-### 2. MySQL Database Manager 
-🔹 **Tech Stack:** MySQL, Python  
-🔹 **Description:** Create, delete, and query databases with clean SQL commands  
-🔹 **Link:** [GitHub Repo Link]
-
-### 3. Data Retrieval System
-🔹 **Tech Stack:** MySQL, Python  
-🔹 **Description:** Select and display specific data from custom databases  
-🔹 **Link:** [GitHub Repo Link]
 
 ## 📚 Currently Learning
 - Next.js | TradingView API | SEO Optimization
