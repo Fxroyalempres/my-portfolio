@@ -1,13 +1,13 @@
 # 💎 **Doreen the Webweaveress**
 
 
-✨# 👋 Hi, I'm Doreen Njoki Kariuki.
+✨ # 👋 Hi, I'm Doreen Njoki Kariuki.
 
 **🌱 Power Learn Project (PLP) Student** • **💻 Aspiring FinTech Developer& A Full-Stack Developer** • **Trading Systems Engineer/Builder** • **Content Strategist**
  
 *"Coding my way to financial freedom, one hold trade at a time"*
 
-#About Me:
+# About Me:
 - Passionate about **building trading automation tools and SEO-optimized solutions**
 - Particularly interested in **FinTech applications and blockchain technology**
 
@@ -70,10 +70,4 @@ Let’s build the web together!
 *"The market may be volatile, but my learning curve isn't."* 📈
 
 
-
-
-## 📫 Let's Connect
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐦 Twitter: [@webweaveress]
 
