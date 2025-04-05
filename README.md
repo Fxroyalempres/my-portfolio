@@ -1,4 +1,4 @@
-# 💎 **Doreen the Webweaveress**
+#  👩‍💻 **Coding with 💎 Doreen the Webweaveress**
 
 
 ✨ **Hi,👋 I'm Doreen Njoki Kariuki**.
@@ -7,7 +7,7 @@
  
 *"Coding my way to financial freedom, one hold trade at a time"*
 
-# About Me:
+# 👩💻About Me:
 - Passionate about **building trading automation tools and SEO-optimized solutions**
 - Particularly interested in **FinTech applications and blockchain technology**
 
