@@ -1,7 +1,7 @@
 # 💎 **Doreen the Webweaveress**
 
 
-✨ # Hi,👋 I'm Doreen Njoki Kariuki.
+✨ #Hi,👋 I'm Doreen Njoki Kariuki.
 
 **🌱 Power Learn Project (PLP) Student** • **💻 Aspiring FinTech Developer& A Full-Stack Developer** • **Trading Systems Engineer/Builder** • **Content Strategist**
  
