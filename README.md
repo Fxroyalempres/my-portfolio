@@ -34,6 +34,11 @@ My journey began when I wanted to:
 🔹 **Link:** [GitHub Repo Link]
 
 
+## Features
+- Smooth and responsive layout
+- Clean and minimal design
+- Interactive elements
+
 
 ## 📚 Currently Mastering at PLP
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">  
@@ -41,10 +46,6 @@ My journey began when I wanted to:
 
 *"Every expert was once a beginner. This is my beginning."* ✨
 
-## Features
-- Smooth and responsive layout
-- Clean and minimal design
-- Interactive elements
 
 ## Contact
 ## 📫 Let's Talk Trading Tech!
