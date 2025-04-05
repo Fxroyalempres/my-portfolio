@@ -1,28 +1,12 @@
-# Webweaveress Portfolio
-
-Welcome to my personal portfolio!  
-I’m a passionate web developer who loves crafting beautiful and functional websites.
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-## Features
-- Smooth and responsive layout
-- Clean and minimal design
-- Interactive elements
-
-## Contact
-Feel free to connect with me through email or on social platforms.  
-Let’s build the web together!
-
----
+# 💎 **Doreen the Webweaveress**
 
 
-# 👋 Hi, I'm Doreen "Webweaveress" Njoki Kariuki
-**🌱 Power Learn Project (PLP) Student** | **💻 Aspiring FinTech Developer**  
+✨# 👋 Hi, I'm Doreen Njoki Kariuki.
+
+**🌱 Power Learn Project (PLP) Student** • **💻 Aspiring FinTech Developer**  • Trading Systems Builder • Content Strategist*
+ 
 *"Coding my way to financial freedom, one hold trade at a time"*
+
 
 ## 🚀 My Coding Origin Story
 My journey began when I wanted to:  
@@ -52,10 +36,23 @@ My journey began when I wanted to:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
 
+## Features
+- Smooth and responsive layout
+- Clean and minimal design
+- Interactive elements
+
+## Contact
 ## 📫 Let's Talk Trading Tech!
 📧 **Email:** [your@email.com] *(Fastest reply)*  
 🐦 **Twitter:** [@webweaveress] *(Trading memes + code snippets)*  
 🔗 **LinkedIn:** [Profile Link] *(Professional collabs)*  
+
+
+Feel free to connect with me through email or on social platforms.  
+Let’s build the web together!
+
+---
+
 
 *"The market may be volatile, but my learning curve isn't."* 📈
 
