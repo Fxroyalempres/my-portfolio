@@ -8,7 +8,7 @@
 
 <a href="/your-cv.pdf" download>
   <button>Download CV</button>
- <button-align: center;>
+ <button-align: center>
 </a>
 
 
