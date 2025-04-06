@@ -42,6 +42,8 @@ My journey began when I wanted to:
 ### 2. [MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git) 
 ![MySQL Manager](https://img.shields.io/badge/🗃️_MySQL_Database_Manager-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+[![MySQL Database Manager](https://img.shields.io/badge/🗃️_MySQL_DB_Manager-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git)
+
 🔹  🖥️ 🛒 🧩 **Tech Stack:** 🗄️ MySQL, 🐍 Python  
 🔹 **Description:** Create, delete, and query databases with clean SQL commands  
 
