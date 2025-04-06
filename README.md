@@ -6,6 +6,9 @@
 
 ✨ **Hi,👋 I'm Doreen Njoki Kariuki**.
 
+[![Download
+CV](https://img.shields.io/badge/Downloads%20CV-Click%20Here-blue?style=for-the-badge&logo=google-drive)](your-cv-link-here)
+
 <a href="/your-cv.pdf" download>
   <button>Download CV</button>
  <button-align: center>
