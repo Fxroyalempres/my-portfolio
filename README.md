@@ -40,12 +40,12 @@ My journey began when I wanted to:
 🔹 **Description:** A simple calculator handling core arithmetic operations  
 
 ### 2. [MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git) 
-🔹 **Tech Stack:** MySQL, Python  
+🔹  🖥️ 🛒 🧩 **Tech Stack:** MySQL, Python  
 🔹 **Description:** Create, delete, and query databases with clean SQL commands  
 🔹 **Link:** [GitHub Repo Link]
 
 ### 3. [Data Retrieval System](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
-🔹 **Tech Stack:** MySQL, Python  
+🔹  🖥️ 🛒 🧩 **Tech Stack:** MySQL, Python  
 🔹 **Description:** Select and display specific data from custom databases  
 🔹 **Link:** [GitHub Repo Link]
 
