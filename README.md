@@ -30,7 +30,7 @@ My journey began when I wanted to:
 
 ## 🛠️ My Projects
 
-### 1. Basic Python Calculator
+### 1. [Basic Python Calculator](https://github.com/Fxroyalempres/basic-calculator.git)
 <p align="center">
 <img src="https://imgur.com/HwQpx5F.jpg" alt= calculator image width="200px">
 </p>
@@ -38,14 +38,13 @@ My journey began when I wanted to:
 
 🔹 **Tech Stack:** Python  
 🔹 **Description:** A simple calculator handling core arithmetic operations  
-🔹 **Link:** [GitHub Repo Link]
 
-### 2. MySQL Database Manager 
+### 2. [MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git) 
 🔹 **Tech Stack:** MySQL, Python  
 🔹 **Description:** Create, delete, and query databases with clean SQL commands  
 🔹 **Link:** [GitHub Repo Link]
 
-### 3. Data Retrieval System
+### 3. [Data Retrieval System](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
 🔹 **Tech Stack:** MySQL, Python  
 🔹 **Description:** Select and display specific data from custom databases  
 🔹 **Link:** [GitHub Repo Link]
