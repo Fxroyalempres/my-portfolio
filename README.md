@@ -47,7 +47,7 @@ My journey began when I wanted to:
 ### 3. [Data Retrieval System](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
 
 [<p align="center">
-<img src="https://img.shields.io/badge/TradingView ApI-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/html-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
+<img src="https://img.shields.io/badge/Data Retrieval System-4479A1?style=flat&logo=mysql&logoColor=white" alt="DRS">](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
 
 
 🔹  🖥️ 🛒 🧩 **Tech Stack:** 🗄️ MySQL, 🐍 Python  
