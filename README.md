@@ -1,6 +1,8 @@
 #  👩‍💻 **Coding with 💎 Doreen the Webweaveress**
 
-<a href="https://imgur.com/Rs8pd9J.jpg"></a>
+<p align="center">
+ <img src="https://imgur.com/Rs8pd9J.jpg" width="300" alt="my image">
+</p>
 
 ✨ **Hi,👋 I'm Doreen Njoki Kariuki**.
 
