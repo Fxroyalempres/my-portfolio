@@ -49,10 +49,10 @@ My journey began when I wanted to:
 
 
 
-## Features
-- Smooth and responsive layout
-- Clean and minimal design
-- Interactive elements
+## ✨Features✨
+- 🔄 Smooth and responsive layout
+- 🎨 Clean and minimal design
+- 👆 Interactive elements
 
 
 ## 📚 Currently Mastering at PLP
