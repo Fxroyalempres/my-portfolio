@@ -25,7 +25,7 @@ My journey began when I wanted to:
 📊 **Build tools to analyze long-term market patterns**  
 ✍️ **Create SEO-optimized content about trading tech**  
 
-*"I discovered that coding is like hold trading - patience and precision create the best results."*
+*"I discovered that 💻 coding is like ⚖️ hold 📊 trading - ⌛ patience and 🎯 precision create the  💎 best results."*
 
 
 ## 🛠️ My Projects
