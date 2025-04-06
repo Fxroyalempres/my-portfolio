@@ -32,7 +32,13 @@ My journey began when I wanted to:
 
 
 ## 🛠️ My Projects
+
 ### 1. Basic Python Calculator
+<p align="center">
+<img src="https://imgur.com/HwQpx5F.jpg" alt= calculator image width="50px">
+</p>
+
+
 🔹 **Tech Stack:** Python  
 🔹 **Description:** A simple calculator handling core arithmetic operations  
 🔹 **Link:** [GitHub Repo Link]
