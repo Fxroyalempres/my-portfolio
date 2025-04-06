@@ -32,7 +32,7 @@ My journey began when I wanted to:
 
 ### 1. Basic Python Calculator
 <p align="center">
-<img src="https://imgur.com/HwQpx5F.jpg" alt= calculator image width="200px">
+<img src="https://imgur.com/HwQpx5F.jpg" alt= calculator image width="200px" length="150px">
 </p>
 
 
