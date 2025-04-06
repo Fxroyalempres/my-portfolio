@@ -30,13 +30,13 @@ My journey began when I wanted to:
 
 ## 🛠️ My Projects
 
-### 1. [Basic Python Calculator](https://github.com/Fxroyalempres/basic-calculator.git)
+### 1.🐍 [Basic Python Calculator](https://github.com/Fxroyalempres/basic-calculator.git)
 <p align="center">
 <img src="https://imgur.com/HwQpx5F.jpg" alt= calculator image width="200px">
 </p>
 
 
-🔹 **Tech Stack:** Python  
+🔹 🖥️ 🛒 🧩 **Tech Stack:** Python  
 🔹 **Description:** A simple calculator handling core arithmetic operations  
 
 ### 2. [MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git) 
@@ -72,9 +72,9 @@ My journey began when I wanted to:
 
 
 ## 📫 Let's Talk Trading Tech!
-📧 **[Email](doreenjoki98@gmail.com): *(Fastest reply)*  
-🐦 **[X](https://x.com/FxRoyalempress): *(Trading memes + code snippets)*  
-🔗 **[LinkedIn](https://www.linkedin.com/in/voice-of-reason-njoki-93412021b/): *(Professional collabs)*  
+📧 [Email](doreenjoki98@gmail.com): *(Fastest reply)*  
+🐦 [X](https://x.com/FxRoyalempress): *(Trading memes + code snippets)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/voice-of-reason-njoki-93412021b/): *(Professional collabs)*  
 
 
 Feel free to connect with me through email or on social platforms.  
