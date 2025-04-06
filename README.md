@@ -10,6 +10,7 @@
 CV](https://img.shields.io/badge/Downloads%20CV-Click%20Here-blue?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1ABqF5Be4lYl-nvT_7aqJJKgcdfpGuEm0/edit?usp=sharing&ouid=113588659179115205125&rtpof=true&sd=true)
 
 
+
 **🌱 Power Learn Project (PLP) 📚 Student** • **💻 Aspiring 🏦🤖 FinTech Developer& A 🛠️🔄 Full-Stack Developer** • ⚙️ **Trading 📊 Systems 🤖Engineer/Builder** • 📢 **Content ✍️🎯 Strategist**
  
 *"Coding my way to 🤑 financial freedom, one 💎hold trade at a time"*
