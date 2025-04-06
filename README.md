@@ -9,12 +9,6 @@
 [![Download
 CV](https://img.shields.io/badge/Downloads%20CV-Click%20Here-blue?style=for-the-badge&logo=google-drive)](your-cv-link-here)
 
-<a href="/your-cv.pdf" download>
-  <button>Download CV</button>
- <button-align: center>
-</a>
-
-
 
 **🌱 Power Learn Project (PLP) Student** • **💻 Aspiring FinTech Developer& A Full-Stack Developer** • **Trading Systems Engineer/Builder** • **Content Strategist**
  
