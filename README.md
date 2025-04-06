@@ -48,7 +48,8 @@ My journey began when I wanted to:
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data Retrieval System-4479A1?style=flat&logo=mysql&logoColor=white" alt="DRS">(https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
+<img src="https://img.shields.io/badge/Data Retrieval System-4479A1?style=flat&logo=mysql&logoColor=white" alt="DRS"><a href="https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git"></a>
+</p>
 
 
 🔹  🖥️ 🛒 🧩 **Tech Stack:** 🗄️ MySQL, 🐍 Python  
