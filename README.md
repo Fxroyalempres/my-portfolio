@@ -82,7 +82,7 @@ Let’s build the web together!
 ---
 
 
-*"The market may be volatile, but my learning curve isn't."* 📈
+*"The 📉 market may be ⚡🛡️ volatile, but my 🌪️🧠 learning curve isn't."* 📈
 
 
 
