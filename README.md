@@ -45,6 +45,10 @@ My journey began when I wanted to:
 🔹 **Description:** Create, delete, and query databases with clean SQL commands  
 
 ### 3. [Data Retrieval System](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
+
+[![MySQL Data Retrieval System](https://img.shields.io/badge/🗃️_MySQL_Data_Retrival -System-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
+
+
 🔹  🖥️ 🛒 🧩 **Tech Stack:** 🗄️ MySQL, 🐍 Python  
 🔹 **Description:** Select and display specific data from custom databases  
 
