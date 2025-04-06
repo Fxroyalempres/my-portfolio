@@ -8,6 +8,7 @@
 </a>
 
 
+
 **🌱 Power Learn Project (PLP) Student** • **💻 Aspiring FinTech Developer& A Full-Stack Developer** • **Trading Systems Engineer/Builder** • **Content Strategist**
  
 *"Coding my way to financial freedom, one hold trade at a time"*
