@@ -67,7 +67,7 @@ My journey began when I wanted to:
 <img src="https://img.shields.io/badge/SEO Optimization-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Css-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
 
 
-*"Every expert was once a beginner. This is my beginning."* ✨
+*"Every 👑 expert was ➡️ once a 👶 beginner. This is my beginning."* ✨
 
 
 ## 📫 Let's Talk Trading Tech!
