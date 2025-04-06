@@ -61,8 +61,8 @@ My journey began when I wanted to:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
 <img src="https://img.shields.io/badge/Next.js-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
-
-- TradingView API | SEO Optimization
+<img src="https://img.shields.io/badge/TradingView ApI-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
+<img src="https://img.shields.io/badge/SEO Optimization-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SEO-0F9D58?style=flat&logo=google&logoColor=white" alt="SEO">
 
 
 *"Every expert was once a beginner. This is my beginning."* ✨
