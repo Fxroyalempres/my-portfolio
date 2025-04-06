@@ -68,9 +68,9 @@ My journey began when I wanted to:
 
 
 ## 📫 Let's Talk Trading Tech!
-📧 **Email:** [your@email.com] *(Fastest reply)*  
-🐦 **Twitter:** [@webweaveress] *(Trading memes + code snippets)*  
-🔗 **LinkedIn:** [Profile Link] *(Professional collabs)*  
+📧 **[Email](doreenjoki98@gmail.com): *(Fastest reply)*  
+🐦 **[X](https://x.com/FxRoyalempress): *(Trading memes + code snippets)*  
+🔗 **[LinkedIn](https://www.linkedin.com/in/voice-of-reason-njoki-93412021b/): *(Professional collabs)*  
 
 
 Feel free to connect with me through email or on social platforms.  
