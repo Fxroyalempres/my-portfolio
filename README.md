@@ -47,8 +47,8 @@ My journey began when I wanted to:
 ### 3. [Data Retrieval System](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/Data Retrieval System-4479A1?style=flat&logo=mysql&logoColor=white" alt="DRS">(https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
+[<p align="center">
+<img src="https://img.shields.io/badge/Data Retrieval System-4479A1?style=flat&logo=mysql&logoColor=white" alt="DRS">](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git)
 </p>
 
 
